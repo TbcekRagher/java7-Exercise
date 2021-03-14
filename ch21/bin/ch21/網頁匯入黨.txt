@@ -1,0 +1,9 @@
+<HTML>
+<BODY BGCOLOR = "FFFF00">
+<APPLET
+	CODE = "test1.class"
+	WHIDTH = "200"
+	HEIGHT = "200">
+</APPLET>
+</BODY>
+</HTML>
